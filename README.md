@@ -22,6 +22,7 @@ I mainly focus on the backend and server side of the applications, but can do fr
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 
   <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
