@@ -38,10 +38,6 @@ I mainly focus on the backend and server side of the applications, but can do fr
        alt='Mao's favorite languages" />
 </a>
 
-<a href="https://github.com/Mao404">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Mao404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt&rank_icon=github" />
-</a>
 
 
 <!--
